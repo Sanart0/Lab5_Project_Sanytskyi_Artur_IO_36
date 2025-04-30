@@ -1,0 +1,8 @@
+G:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit.v {1 {vlog -work work -nocovercells G:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module demux_1_4_8bit
+
+Top level modules:
+	demux_1_4_8bit
+
+} {} {}}

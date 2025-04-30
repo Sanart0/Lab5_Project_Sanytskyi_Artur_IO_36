@@ -1,0 +1,10 @@
+force -freeze {sim:/demux_1_4_8bit/sel[0]} 1 {0 ns} -r 1ns
+force -freeze {sim:/demux_1_4_8bit/sel[1]} 1 {0 ns} -r 2ns
+force -freeze {sim:/demux_1_4_8bit/din[0]} 1 {0 ns} -r 1ns
+force -freeze {sim:/demux_1_4_8bit/din[1]} 1 {0 ns} -r 2ns
+force -freeze {sim:/demux_1_4_8bit/din[2]} 1 {0 ns} -r 4ns
+force -freeze {sim:/demux_1_4_8bit/din[3]} 1 {0 ns} -r 8ns
+force -freeze {sim:/demux_1_4_8bit/din[4]} 1 {0 ns} -r 16ns
+force -freeze {sim:/demux_1_4_8bit/din[5]} 1 {0 ns} -r 32ns
+force -freeze {sim:/demux_1_4_8bit/din[6]} 1 {0 ns} -r 64ns
+force -freeze {sim:/demux_1_4_8bit/din[7]} 1 {0 ns} -r 128ns
