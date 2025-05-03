@@ -4,18 +4,34 @@ K3
 cModel Technology
 dG:\sanart0\KPI\4\ShemTech\Lab4_Project_Sanytskyi_Artur_IO_36
 vdemux_1_4_8bit
-!s100 7oVN`HbcCjcODYkALWBj71
 In]@>R;WcW91X7M;H138n`3
 Vd07?gI^fOf>DzL9Y31:>Q3
-dG:\sanart0\KPI\4\ShemTech\Lab5_Project_Sanytskyi_Artur_IO_36
+Z0 dG:\sanart0\KPI\4\ShemTech\Lab5_Project_Sanytskyi_Artur_IO_36
 w1746005860
 8G:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit.v
 FG:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit.v
 L0 1
-OV;L;6.5b;42
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 o-work work -nocovercells -O0
+!s100 7oVN`HbcCjcODYkALWBj71
+!s85 0
+!s101 -O0
+Z3 !s102 -nocovercells
+vdemux_1_4_8bit_v2
+!s100 k8S9<[=n1^YDRj4Sa?Eg41
+Ifb_BHng[RFcN`J]c:P:392
+Vh3KOg6nkbZe:CDEcd3V8J1
+Z4 dG:\sanart0\KPI\4\ShemTech\Lab5_Project_Sanytskyi_Artur_IO_36
+w1746290824
+8G:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit_v2.v
+FG:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit_v2.v
+L0 1
+R1
 r1
 !s85 0
 31
 !s101 -O0
-!s102 -nocovercells
-o-work work -nocovercells -O0
+R3
+R2
