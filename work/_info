@@ -14,17 +14,17 @@ L0 1
 Z1 OV;L;6.5b;42
 r1
 31
-Z2 o-work work -nocovercells -O0
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
 !s100 7oVN`HbcCjcODYkALWBj71
 !s85 0
 !s101 -O0
-Z3 !s102 -nocovercells
 vdemux_1_4_8bit_v2
-!s100 k8S9<[=n1^YDRj4Sa?Eg41
-Ifb_BHng[RFcN`J]c:P:392
+!s100 [D5?`=mhSHgI2h[lM4nlR3
+Ig_hYLAQKTO>8lm0C2fT:o3
 Vh3KOg6nkbZe:CDEcd3V8J1
 Z4 dG:\sanart0\KPI\4\ShemTech\Lab5_Project_Sanytskyi_Artur_IO_36
-w1746290824
+w1746324264
 8G:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit_v2.v
 FG:/sanart0/KPI/4/ShemTech/Lab5_Project_Sanytskyi_Artur_IO_36/demux_1_4_8bit_v2.v
 L0 1
@@ -33,5 +33,5 @@ r1
 !s85 0
 31
 !s101 -O0
-R3
 R2
+R3
